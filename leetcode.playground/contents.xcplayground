@@ -14,5 +14,6 @@
         <page name='628. Maximum Product of Three Numbers'/>
         <page name='283. Move Zeroes'/>
         <page name='387. First Unique Character in a String'/>
+        <page name='565. Array Nesting'/>
     </pages>
 </playground>
