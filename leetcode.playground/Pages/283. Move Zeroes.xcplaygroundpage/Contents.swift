@@ -31,3 +31,5 @@ class Solution {
 let solution = Solution()
 var arr = [0,1,0,3,12]
 solution.moveZeroes(&arr)
+
+
