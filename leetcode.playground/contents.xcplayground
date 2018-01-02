@@ -19,5 +19,6 @@
         <page name='1. Two Sum'/>
         <page name='7. Reverse Integer'/>
         <page name='650. 2 Keys Keyboard'/>
+        <page name='35. Search Insert Position'/>
     </pages>
 </playground>
