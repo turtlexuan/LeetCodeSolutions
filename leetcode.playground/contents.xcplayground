@@ -23,5 +23,7 @@
         <page name='263. Ugly Number'/>
         <page name='264. Ugly Number II'/>
         <page name='204. Count Primes'/>
+        <page name='279. Perfect Squares'/>
+        <page name='605. Can Place Flowers'/>
     </pages>
 </playground>
