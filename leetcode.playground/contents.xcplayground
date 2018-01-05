@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
     <pages>
         <page name='14. Longest Common Prefix'/>
         <page name='260. Single Number III'/>
@@ -25,5 +25,6 @@
         <page name='204. Count Primes'/>
         <page name='279. Perfect Squares'/>
         <page name='605. Can Place Flowers'/>
+        <page name='735. Asteroid Collision'/>
     </pages>
 </playground>
