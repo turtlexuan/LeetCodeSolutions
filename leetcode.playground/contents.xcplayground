@@ -22,5 +22,6 @@
         <page name='35. Search Insert Position'/>
         <page name='263. Ugly Number'/>
         <page name='264. Ugly Number II'/>
+        <page name='204. Count Primes'/>
     </pages>
 </playground>
