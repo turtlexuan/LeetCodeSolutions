@@ -20,5 +20,7 @@
         <page name='7. Reverse Integer'/>
         <page name='650. 2 Keys Keyboard'/>
         <page name='35. Search Insert Position'/>
+        <page name='263. Ugly Number'/>
+        <page name='264. Ugly Number II'/>
     </pages>
 </playground>
