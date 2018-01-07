@@ -31,5 +31,11 @@
         <page name='22. Generate Parentheses (Unfinished)'/>
         <page name='371. Sum of Two Integers'/>
         <page name='118. Pascal&apos;s Triangle'/>
+        <page name='119. Pascal&apos;s Triangle II'/>
+        <page name='120. Triangle'/>
+        <page name='136. Single Number'/>
+        <page name='268. Missing Number'/>
+        <page name='287. Find the Duplicate Number'/>
+        <page name='459. Repeated Substring Pattern'/>
     </pages>
 </playground>
