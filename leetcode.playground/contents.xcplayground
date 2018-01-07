@@ -23,10 +23,13 @@
         <page name='263. Ugly Number'/>
         <page name='264. Ugly Number II'/>
         <page name='204. Count Primes'/>
-        <page name='279. Perfect Squares'/>
         <page name='605. Can Place Flowers'/>
         <page name='735. Asteroid Collision'/>
         <page name='71. Simplify Path'/>
         <page name='20. Valid Parentheses'/>
+        <page name='279. Perfect Squares'/>
+        <page name='22. Generate Parentheses (Unfinished)'/>
+        <page name='371. Sum of Two Integers'/>
+        <page name='118. Pascal&apos;s Triangle'/>
     </pages>
 </playground>
