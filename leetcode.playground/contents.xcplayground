@@ -53,5 +53,8 @@
         <page name='326. Power of Three'/>
         <page name='231. Power of Two'/>
         <page name='342. Power of Four'/>
+        <page name='345. Reverse Vowels of a String'/>
+        <page name='367. Valid Perfect Square'/>
+        <page name='69. Sqrt(x)'/>
     </pages>
 </playground>
