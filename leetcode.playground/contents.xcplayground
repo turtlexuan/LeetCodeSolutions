@@ -44,5 +44,11 @@
         <page name='189. Rotate Array'/>
         <page name='202. Happy Number'/>
         <page name='203. Remove Linked List Elements'/>
+        <page name='206. Reverse Linked List'/>
+        <page name='234. Palindrome Linked List'/>
+        <page name='205. Isomorphic Strings'/>
+        <page name='290. Word Pattern'/>
+        <page name='217. Contains Duplicate'/>
+        <page name='219. Contains Duplicate II'/>
     </pages>
 </playground>
