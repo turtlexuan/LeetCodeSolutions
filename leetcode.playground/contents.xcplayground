@@ -50,5 +50,8 @@
         <page name='290. Word Pattern'/>
         <page name='217. Contains Duplicate'/>
         <page name='219. Contains Duplicate II'/>
+        <page name='326. Power of Three'/>
+        <page name='231. Power of Two'/>
+        <page name='342. Power of Four'/>
     </pages>
 </playground>
