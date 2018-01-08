@@ -39,5 +39,9 @@
         <page name='459. Repeated Substring Pattern'/>
         <page name='83. Remove Duplicates from Sorted List'/>
         <page name='167. Two Sum II - Input array is sorted'/>
+        <page name='171. Excel Sheet Column Number'/>
+        <page name='168. Excel Sheet Column Title'/>
+        <page name='189. Rotate Array'/>
+        <page name='202. Happy Number'/>
     </pages>
 </playground>
