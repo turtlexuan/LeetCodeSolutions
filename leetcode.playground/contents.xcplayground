@@ -38,5 +38,6 @@
         <page name='287. Find the Duplicate Number'/>
         <page name='459. Repeated Substring Pattern'/>
         <page name='83. Remove Duplicates from Sorted List'/>
+        <page name='167. Two Sum II - Input array is sorted'/>
     </pages>
 </playground>
