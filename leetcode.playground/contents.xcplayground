@@ -43,5 +43,6 @@
         <page name='168. Excel Sheet Column Title'/>
         <page name='189. Rotate Array'/>
         <page name='202. Happy Number'/>
+        <page name='203. Remove Linked List Elements'/>
     </pages>
 </playground>
