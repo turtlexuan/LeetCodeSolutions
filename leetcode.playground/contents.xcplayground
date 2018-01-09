@@ -56,5 +56,6 @@
         <page name='345. Reverse Vowels of a String'/>
         <page name='367. Valid Perfect Square'/>
         <page name='69. Sqrt(x)'/>
+        <page name='227. Basic Calculator II'/>
     </pages>
 </playground>
