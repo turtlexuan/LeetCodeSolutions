@@ -57,5 +57,8 @@
         <page name='367. Valid Perfect Square'/>
         <page name='69. Sqrt(x)'/>
         <page name='227. Basic Calculator II'/>
+        <page name='9. Palindrome Number'/>
+        <page name='728. Self Dividing Numbers'/>
+        <page name='507. Perfect Number'/>
     </pages>
 </playground>
