@@ -60,5 +60,6 @@
         <page name='9. Palindrome Number'/>
         <page name='728. Self Dividing Numbers'/>
         <page name='507. Perfect Number'/>
+        <page name='409. Longest Palindrome'/>
     </pages>
 </playground>
