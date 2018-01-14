@@ -61,5 +61,7 @@
         <page name='728. Self Dividing Numbers'/>
         <page name='507. Perfect Number'/>
         <page name='409. Longest Palindrome'/>
+        <page name='242. Valid Anagram'/>
+        <page name='438. Find All Anagrams in a String'/>
     </pages>
 </playground>
