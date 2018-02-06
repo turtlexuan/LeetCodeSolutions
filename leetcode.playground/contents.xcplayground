@@ -64,5 +64,7 @@
         <page name='242. Valid Anagram'/>
         <page name='438. Find All Anagrams in a String'/>
         <page name='633. Sum of Square Numbers'/>
+        <page name='94. Binary Tree Inorder Traversal'/>
+        <page name='98. Validate Binary Search Tree'/>
     </pages>
 </playground>
